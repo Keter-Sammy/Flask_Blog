@@ -1,1 +1,1 @@
-Tutorial on Flask Framework on Python
+A blog built on Python Flask Micro-Framework.
